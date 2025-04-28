@@ -1,0 +1,54 @@
+I. Information Management
+problem_dict = {
+    "unable to access database": "check if the database server is online and accessible",
+    "slow website performance": "optimize database queries and check server load",
+    "file not found": "verify the file path or check if the file was deleted or moved",
+    "data backup failure": "ensure the backup process is running and the backup server is available",
+    "unable to retrieve report": "check if the reporting tool is configured correctly or if the data source is available"
+}
+
+II. Hospitals and Medical Facilities
+problem_dict = {
+    "patient records not accessible": "check if the database server is functioning properly",
+    "appointment scheduling issues": "ensure the scheduling software is not down and all systems are synced",
+    "billing errors": "verify patient information and check if the billing software is properly integrated",
+    "lab results not updating": "ensure lab systems are connected to the central database",
+    "emergency alert system not working": "check the server or network connection for the alert system"
+}
+
+III. Help Desks Management
+problem_dict = {
+    "ticket not being assigned": "check if the ticketing system is operational and tickets are routed correctly",
+    "unable to contact support": "verify support staff availability and check email or chat channels",
+    "long response time": "check support staff workloads and prioritize critical tickets",
+    "software bug report not acknowledged": "ensure the bug tracking system is up-to-date and functioning",
+    "duplicate tickets": "implement better ticket classification and merging procedures"
+}
+
+IV. Employee Performance Evaluation
+problem_dict = {
+    "missing performance data": "verify that all evaluations have been logged correctly in the system",
+    "inaccurate performance metrics": "check that performance data sources and calculations are correct",
+    "employee feedback not visible": "ensure feedback is correctly recorded and accessible in the system",
+    "evaluation reports delayed": "check if the report generation process is automated or delayed due to a backlog",
+    "incomplete self-assessment": "remind employees to complete all sections of the self-assessment form"
+}
+
+V. Stock Market Trading
+problem_dict = {
+    "unable to access trading platform": "check if the trading server is online or if your internet connection is stable",
+    "incorrect stock data": "verify that the stock market feeds are correctly integrated into the platform",
+    "trade execution delays": "check for server latency or issues with brokerage connectivity",
+    "portfolio not updating": "ensure that the portfolio management system is synchronized with the trading system",
+    "incorrect price displayed": "check if there are issues with real-time market data or currency conversion"
+}
+
+VI. Airline Scheduling and Cargo Scheduling
+problem_dict = {
+    "flight schedule not updating": "verify that the flight data synchronization system is working correctly",
+    "cargo not being loaded": "check for scheduling errors or coordination issues with the cargo department",
+    "overbooked flight": "verify booking limits and passenger allocation in the booking system",
+    "delayed flight notifications not sent": "check if the communication system is integrated with the scheduling system",
+    "unavailable cargo space": "verify cargo reservation details and check if the system allows for proper capacity planning"
+}
+
